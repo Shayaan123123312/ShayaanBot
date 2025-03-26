@@ -1,0 +1,15 @@
+{
+  "name": "shayaan-utilities",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ccolor": "^1.3.1",
+    "discord": "^0.8.2"
+  }
+}
